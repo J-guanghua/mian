@@ -25,4 +25,4 @@ jobs:
       run: go build ./mian.go
 
     - name: Run
-      run: go run ./mian.go
+      run: ./mian
